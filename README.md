@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning website development.
 <!--
 **quyennt21/quyennt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![quyennt21's github stats](https://github-readme-stats.vercel.app/api?username=quyennt21&show_icons=true)
